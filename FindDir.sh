@@ -1,4 +1,5 @@
 #!/bin/bash
+
 read $dir
 if [ -d ./$dir ]
 then 
