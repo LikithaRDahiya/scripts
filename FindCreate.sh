@@ -1,5 +1,4 @@
 #!/bin/bash
-
 if [ -t ./sample.txt ]
 then
         echo "file exists"
